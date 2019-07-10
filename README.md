@@ -15,6 +15,6 @@ I used basic HTML and CSS
 ## Support and contact details
 tonadaphine77@gmail.com
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*Licensing ...umh i dunno exactly what it's about*
 Copyright (c) 2019 **Daphin**
   
